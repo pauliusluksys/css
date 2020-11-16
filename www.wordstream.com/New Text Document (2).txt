@@ -1,0 +1,50 @@
+<div class="col-md-8 second-from-top ">
+							<nav class=" navbar navbar-expand-md">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+  								</button>
+  								<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+								<div class="btn-group my-2">
+								  <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								    Our solutions
+								  </button>
+								  <div class="dropdown-menu">
+								    <a class="dropdown-item" href="#">Action</a>
+								    <a class="dropdown-item" href="#">Another action</a>
+								    <a class="dropdown-item" href="#">Something else here</a>
+								    <div class="dropdown-divider"></div>
+								    <a class="dropdown-item" href="#">Separated link</a>
+								  </div>
+								
+								
+								  <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								   How we help
+								  </button>
+								  <div class="dropdown-menu">
+								    <a class="dropdown-item" href="#">Action</a>
+								    <a class="dropdown-item" href="#">Another action</a>
+								    <a class="dropdown-item" href="#">Something else here</a>
+								    <div class="dropdown-divider"></div>
+								    <a class="dropdown-item" href="#">Separated link</a>
+								  </div>
+								
+								  <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								    Pricing
+								  </button>
+								  <div class="dropdown-menu">
+								    <a class="dropdown-item" href="#">Action</a>
+								    <a class="dropdown-item" href="#">Another action</a>
+								    <a class="dropdown-item" href="#">Something else here</a>
+								    <div class="dropdown-divider"></div>
+								    <a class="dropdown-item" href="#">Separated link</a>
+								  </div>
+								</div>
+								<div class="btn-group">
+								  <a href = "#" class="btn active" role="button" aria-pressed="true">
+								    Blog</a>
+								  </button>
+								  
+								</div>
+							</div>
+						</nav>
+						</div>
+					</div>
