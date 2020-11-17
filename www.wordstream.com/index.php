@@ -5,6 +5,8 @@
 	<title>Word Stream</title>
 	<link rel="stylesheet" href="index.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 	<script
   	src="https://code.jquery.com/jquery-3.5.1.min.js"
   	integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
@@ -92,14 +94,21 @@
 	</div>		
 	<div class="row">
 		<div class="col-md-1 "></div>
-		<div class="col-md-11 ">Home:Blog</div>
-	</div>		
+		<div class="col-md-11 ">
+			<nav aria-label="breadcrumb">
+		 	 <ol class="breadcrumb background-color-change-crumb">
+		    	<li class="breadcrumb-item"><a href="#">Home</a></li>
+		    	<li class="breadcrumb-item active" aria-current="#">Blog</li>
+		 	 </ol>
+			</nav>
+		</div>
+		</div>		
 	<div class="row">
 		<div class="col-md-1 align-right-side d-none d-lg-block">
-			<div class="social-links view-element-container-sticky">
-				<div class="twitter-container"></div>
-				<div class="facebook-container"></div>
-				<div class="in-container"></div>
+			<div class="social-links view-element-container-sticky ">
+				<div class="twitter-container"><img src="linkedin1.png" alt="linkedin" class="material-icons"> <span class="badge badge-primary">100</span></div>
+				<div class="facebook-container"> <img src="facebook.png" alt="facebook" class="material-icons"><span class="badge badge-primary">100</span></div>
+				<div class="in-container"><img src="twitter.png" alt="twitter" class="material-icons"><span class="badge badge-primary">100</span></div>
 			</div>
 		</div>
 		<div class="col-md-7 border-right">
@@ -233,8 +242,8 @@ Donec pretium sapien id tellus lacinia, a lacinia lorem malesuada. Cras ex lacus
 							<div class="col-md-3"></div>
 							<div class="col-md-6">
 								<div class="icons-go-to">
-									<div class="icon rounded-circle"><a href="#"><img src=""/></div>
-									<div class="icon rounded-circle"><a href="#"><img src=""/></div>
+									<div class="icon rounded-circle"><a href="#"><img src="facebook.png" style="padding-left: -5px;"/></div>
+									<div class="icon rounded-circle"><a href="#"><img src="linkedin1.png" /></div>
 								</div>
 								<div class="footer-main-links">
 									<ul class="list-fix">
